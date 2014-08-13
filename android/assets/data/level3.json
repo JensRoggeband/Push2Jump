@@ -1,0 +1,398 @@
+[
+{
+	"class": "cloud",
+	"pos": {
+		"x": 466,
+		"y": 478
+	},
+	"direction": {
+		"x": -0.4
+	}
+},
+{
+	"class": "cloud",
+	"pos": {
+		"x": 100,
+		"y": 200
+	},
+	"direction": {
+		"x": -0.4
+	}
+},
+{
+	"class": "cloud",
+	"pos": {
+		"x": 150,
+		"y": 222
+	},
+	"direction": {
+		"x": -0.4
+	}
+},
+{
+	"class": "cloud",
+	"pos": {
+		"x": 30,
+		"y": 301
+	},
+	"direction": {
+		"x": -0.4
+	}
+},
+{
+	"class": "cloud",
+	"pos": {
+		"x": 708,
+		"y": 425
+	},
+	"direction": {
+		"x": -0.4
+	}
+},
+{
+	"class": "cloud",
+	"pos": {
+		"x": 123,
+		"y": 321
+	},
+	"direction": {
+		"x": -0.4
+	}
+},
+{
+	"class": "cloud",
+	"pos": {
+		"x": 432,
+		"y": 234
+	},
+	"direction": {
+		"x": -0.4
+	}
+},
+{
+	"class": "cloud",
+	"pos": {
+		"x": 60,
+		"y": 575
+	},
+	"direction": {
+		"x": -0.4
+	}
+},
+{
+	"class": "cloud",
+	"pos": {
+		"x": 701,
+		"y": 60
+	},
+	"direction": {
+		"x": -0.4
+	}
+},
+{
+	"class": "cloud",
+	"pos": {
+		"x": 120,
+		"y": 550
+	},
+	"direction": {
+		"x": -0.4
+	}
+},
+{
+	"class": "cloud",
+	"pos": {
+		"x": 530,
+		"y": 356
+	},
+	"direction": {
+		"x": -0.4
+	}
+},
+
+
+
+
+
+
+
+
+{
+	"class": "platform",
+	"orientation": 1,
+	"pos": {
+		"x": 650,
+		"y": 140
+	},
+	"amount": 3,
+	"direction": {
+		"x": -2.5
+	}
+},
+{
+	"class": "platform",
+	"orientation": 1,
+	"pos": {
+		"x": 780,
+		"y": 280
+	},
+	"amount": 12,
+	"direction": {
+		"x": -2.5
+	}
+},
+{
+	"class": "platform",
+	"orientation": 0,
+	"pos": {
+		"x": 1100,
+		"y": 360
+	},
+	"amount": 6,
+	"direction": {
+		"x": -3.5
+	}
+},
+{
+	"class": "platform",
+	"orientation": 0,
+	"pos": {
+		"x": 1200,
+		"y": 290
+	},
+	"amount": 4,
+	"direction": {
+		"x": -3.5
+	}
+},
+{
+	"class": "platform",
+	"orientation": 0,
+	"pos": {
+		"x": 1300,
+		"y": 360
+	},
+	"amount": 6,
+	"direction": {
+		"x": -3.5
+	}
+},
+{
+	"class": "platform",
+	"orientation": 0,
+	"pos": {
+		"x": 1100,
+		"y": 360
+	},
+	"amount": 3,
+	"direction": {
+		"x": -2.5
+	}
+},
+{
+	"class": "platform",
+	"orientation": 1,
+	"pos": {
+		"x": 1100,
+		"y": 60
+	},
+	"amount": 3,
+	"direction": {
+		"x": -2.5
+	}
+},
+{
+	"class": "platform",
+	"orientation": 1,
+	"pos": {
+		"x": 1280,
+		"y": 60
+	},
+	"amount": 2,
+	"direction": {
+		"x": -2.5
+	}
+},
+{
+	"class": "platform",
+	"orientation": 1,
+	"pos": {
+		"x": 1400,
+		"y": 205
+	},
+	"amount": 3,
+	"direction": {
+		"x": -2.5
+	}
+},
+{
+	"class": "platform",
+	"orientation": 0,
+	"pos": {
+		"x": 1400,
+		"y": 290
+	},
+	"amount": 3,
+	"direction": {
+		"x": -2.5
+	}
+},
+{
+	"class": "platform",
+	"orientation": 1,
+	"pos": {
+		"x": 1550,
+		"y": 350
+	},
+	"amount": 3,
+	"direction": {
+		"x": -2.5
+	}
+},
+{
+	"class": "platform",
+	"orientation": 0,
+	"pos": {
+		"x": 1550,
+		"y": 440
+	},
+	"amount": 3,
+	"direction": {
+		"x": -2.5
+	}
+},
+{
+	"class": "platform",
+	"orientation": 1,
+	"pos": {
+		"x": 1700,
+		"y": 390
+	},
+	"amount": 2,
+	"direction": {
+		"x": -2.5
+	}
+},
+{
+	"class": "platform",
+	"orientation": 1,
+	"pos": {
+		"x": 1840,
+		"y": 450
+	},
+	"amount": 2,
+	"direction": {
+		"x": -2.5
+	}
+},
+{
+	"class": "platform",
+	"orientation": 1,
+	"pos": {
+		"x": 1940,
+		"y": 50
+	},
+	"amount": 2,
+	"direction": {
+		"x": -2.5
+	}
+},
+{
+	"class": "platform",
+	"orientation": 1,
+	"pos": {
+		"x": 2080,
+		"y": 125
+	},
+	"amount": 2,
+	"direction": {
+		"x": -2.5
+	}
+},
+{
+	"class": "platform",
+	"orientation": 1,
+	"pos": {
+		"x": 2230,
+		"y": 125
+	},
+	"amount": 2,
+	"direction": {
+		"x": -2.5
+	}
+},
+{
+	"class": "platform",
+	"orientation": 1,
+	"pos": {
+		"x": 2280,
+		"y": 180
+	},
+	"amount": 1,
+	"direction": {
+		"x": -2.5
+	}
+},
+{
+	"class": "platform",
+	"orientation": 1,
+	"pos": {
+		"x": 2340,
+		"y": 10
+	},
+	"amount": 1,
+	"direction": {
+		"x": -2.5
+	}
+},
+{
+	"class": "platform",
+	"orientation": 1,
+	"pos": {
+		"x": 2470,
+		"y": 10
+	},
+	"amount": 1,
+	"direction": {
+		"x": -2.5
+	}
+},
+{
+	"class": "platform",
+	"orientation": 1,
+	"pos": {
+		"x": 2580,
+		"y": -450
+	},
+	"amount": 3,
+	"direction": {
+		"x": -2.5,
+		"y": 0.5
+	}
+},
+{
+	"class": "platform",
+	"orientation": 1,
+	"pos": {
+		"x": 2720,
+		"y": -330
+	},
+	"amount": 3,
+	"direction": {
+		"x": -2.5,
+		"y": 0.5
+	}
+},
+{
+	"class": "platform",
+	"orientation": 1,
+	"pos": {
+		"x": 2900,
+		"y": 200
+	},
+	"amount": 3,
+	"direction": {
+		"x": -2.5
+	}
+}
+]

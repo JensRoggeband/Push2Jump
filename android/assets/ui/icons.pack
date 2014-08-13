@@ -1,0 +1,149 @@
+
+icons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+menu-icon.down
+  rotate: false
+  xy: 0, 96
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+menu-icon.up
+  rotate: false
+  xy: 0, 0
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+next-icon.down
+  rotate: false
+  xy: 96, 96
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+next-icon.up
+  rotate: false
+  xy: 96, 0
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+pause-icon.down
+  rotate: false
+  xy: 192, 96
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+pause-icon.up
+  rotate: false
+  xy: 192, 0
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+play-icon.down
+  rotate: false
+  xy: 288, 96
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+play-icon.up
+  rotate: false
+  xy: 288, 0
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+previous-icon.down
+  rotate: false
+  xy: 384, 96
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+previous-icon.up
+  rotate: false
+  xy: 384, 0
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+retry-icon.down
+  rotate: false
+  xy: 480, 96
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+retry-icon.up
+  rotate: false
+  xy: 480, 0
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+sound-off-icon.down
+  rotate: false
+  xy: 576, 96
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+sound-off-icon.up
+  rotate: false
+  xy: 576, 0
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+sound-on-icon.down
+  rotate: false
+  xy: 672, 96
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+sound-on-icon.up
+  rotate: false
+  xy: 672, 0
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+completed-button.down
+  rotate: false
+  xy: 768, 112
+  size: 80, 80
+  split: 6, 6, 6, 6
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+completed-button.up
+  rotate: false
+  xy: 768, 32
+  size: 80, 80
+  split: 6, 6, 6, 6
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+uncompleted-button.down
+  rotate: false
+  xy: 848, 112
+  size: 80, 80
+  split: 6, 6, 6, 6
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+uncompleted-button.up
+  rotate: false
+  xy: 848, 32
+  size: 80, 80
+  split: 6, 6, 6, 6
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

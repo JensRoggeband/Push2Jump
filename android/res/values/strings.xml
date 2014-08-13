@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Push2Jump</string>
+    <string name="score">Score</string>
+    <string name="highscore">Highscore</string>
+    <string name="app_id">359752129658</string> 
+    
+</resources>
